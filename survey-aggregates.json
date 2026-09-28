@@ -1,1 +1,59 @@
-{"survey_id":"FORCE-MISMATCH","survey_version":2,"generated_at":null,"n":0,"questions":{},"cross_tabs":{"spend_by_company_size":{}}}
+{
+  "survey_id": "swiss-ai-adoption-2026",
+  "survey_version": 2,
+  "generated_at": "2026-09-28T14:22:13.000Z",
+  "n": 1,
+  "questions": {
+    "company-size": {
+      "n": 1,
+      "counts": {}
+    },
+    "sector": {
+      "n": 1,
+      "counts": {}
+    },
+    "language-region": {
+      "n": 1,
+      "counts": {}
+    },
+    "ai-maturity": {
+      "n": 1,
+      "counts": {}
+    },
+    "ai-tools": {
+      "n": 1,
+      "counts": {}
+    },
+    "primary-use-cases": {
+      "n": 1,
+      "counts": {}
+    },
+    "monthly-spend-chf": {
+      "n": 1,
+      "counts": {}
+    },
+    "hosting-requirement": {
+      "n": 1,
+      "counts": {}
+    },
+    "personal-data-in-ai": {
+      "n": 1,
+      "counts": {}
+    },
+    "eu-market-exposure": {
+      "n": 1,
+      "counts": {}
+    },
+    "deployment-blockers": {
+      "n": 1,
+      "counts": {}
+    },
+    "vendor-decision-factors": {
+      "n": 1,
+      "counts": {}
+    }
+  },
+  "cross_tabs": {
+    "spend_by_company_size": {}
+  }
+}
