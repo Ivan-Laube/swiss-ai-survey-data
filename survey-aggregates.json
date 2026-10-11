@@ -1,55 +1,63 @@
 {
   "survey_id": "swiss-ai-adoption-2026",
-  "survey_version": 2,
-  "generated_at": "2026-10-04T05:00:49.000Z",
-  "n": 2,
+  "survey_version": 4,
+  "generated_at": "2026-10-11T05:00:33.000Z",
+  "n": 0,
   "questions": {
     "company-size": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "sector": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "language-region": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "ai-maturity": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "ai-tools": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "primary-use-cases": {
-      "n": 2,
+      "n": 0,
+      "counts": {}
+    },
+    "weekly-ai-users-share": {
+      "n": 0,
       "counts": {}
     },
     "monthly-spend-chf": {
-      "n": 2,
+      "n": 0,
+      "counts": {}
+    },
+    "spend-outlook-12m": {
+      "n": 0,
       "counts": {}
     },
     "hosting-requirement": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
-    "personal-data-in-ai": {
-      "n": 2,
+    "ai-governance-measures": {
+      "n": 0,
       "counts": {}
     },
     "eu-market-exposure": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "deployment-blockers": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     },
     "vendor-decision-factors": {
-      "n": 2,
+      "n": 0,
       "counts": {}
     }
   },
